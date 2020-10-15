@@ -11,6 +11,7 @@ namespace DotnetCore2
 {
     public class Startup
     {
+        // Changes from GITHUB @22.37 PM
         private IConfiguration _config;
         public Startup(IConfiguration configuration)
         {
