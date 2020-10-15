@@ -11,6 +11,7 @@ namespace DotnetCore2
 {
     public class Program
     {
+        // Changes made from Github @22.30 pm
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
